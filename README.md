@@ -1,4 +1,7 @@
 # redux-react-server-backend
+| Client redux-basic            | Get the link below                                                |
+| ---------------------------------- | ----------------------------------------------------------------- |
+| React+Redux+Redux-thunk | [CLICK ME](https://github.com/hoanganndev/Redux-Basic) |
 
 step 1: clone this project
 
